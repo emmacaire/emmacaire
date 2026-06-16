@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Emmanuel! 👋
+
+Welcome to my GitHub profile. I am a Data Analyst.
+
+## 🌐 My Portfolio Website
+Click the preview below to visit my full portfolio website, featuring my project layouts and model evaluation matrices:
+
+[![Visit My Portfolio Site](path/to/your/screenshot.png)](https://emmacaire.github.io/#)
+
+*Built with HTML/CSS and deployed via GitHub Pages.*
 
 <!--
 **emmacaire/emmacaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
